@@ -1,0 +1,23 @@
+@media screen and (max-width:600px) {
+    nav ul li{
+        border-bottom: 1px solid rgb(66, 66, 66);
+        color:rgb(58, 58, 58);
+        text-align: center;
+        list-style: none;
+        padding: 10px;
+        margin: 10px;
+        font-size: 20px;
+        transition-duration: 0.4s;
+    }
+    nav ul{
+
+        width: 100%;
+
+    }
+    .zwin{
+        display: block;
+    }
+    #pojemnik{
+        display: block;
+    }
+}
